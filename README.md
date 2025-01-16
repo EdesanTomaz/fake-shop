@@ -12,4 +12,5 @@ DB_NAME	=>	Nome do banco de dados PostgreSQL.
 
 DB_PORT	=>	Porta de conexão com o banco de dados PostgreSQL.
 
-## [Link Docker Hub]([[https://hub.docker.com/repository/docker/edesantomaz/conversao-distancia/general](https://hub.docker.com/repository/docker/edesantomaz/fake-shop/general)])
+
+## [Link Docker Hub](https://hub.docker.com/repository/docker/edesantomaz/fake-shop/general)
